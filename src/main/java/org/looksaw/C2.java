@@ -1,5 +1,6 @@
 package org.looksaw;
 
+//使用implements Runable来使用线程
 public class C2 {
     //测试用的多线程一
     private class Thread1 implements  Runnable {
