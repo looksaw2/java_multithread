@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b158bcf1-2f92-47fb-8517-03cf2610e7af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/looksaw/CyclicBarrierDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/looksaw/ExchangerDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/looksaw/COWADemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +48,7 @@
     "Application.C3.executor": "Run",
     "Application.C4.executor": "Run",
     "Application.C5.executor": "Run",
+    "Application.COWADemo1.executor": "Run",
     "Application.CacheThreadDemo1.executor": "Run",
     "Application.ConcurrencyList.executor": "Run",
     "Application.CountDowbDemo1.executor": "Run",
@@ -85,10 +78,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExchangerDemo1">
+  <component name="RunManager" selected="Application.COWADemo1">
     <configuration name="BlockQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.looksaw.BlockQueue" />
       <module name="java_multithread1" />
@@ -102,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDowbDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.looksaw.CountDowbDemo1" />
+    <configuration name="COWADemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.looksaw.COWADemo1" />
       <module name="java_multithread1" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.COWADemo1" />
         <item itemvalue="Application.ExchangerDemo1" />
         <item itemvalue="Application.CyclicBarrierDemo1" />
         <item itemvalue="Application.CurrentMapDemo1" />
         <item itemvalue="Application.BlockQueue" />
-        <item itemvalue="Application.CountDowbDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756795814455</updated>
       <workItem from="1756795815995" duration="18442000" />
-      <workItem from="1756866916534" duration="2059000" />
+      <workItem from="1756866916534" duration="3951000" />
     </task>
     <servers />
   </component>
