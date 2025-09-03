@@ -4,200 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b158bcf1-2f92-47fb-8517-03cf2610e7af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/looksaw/COWADemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfffceb2-d86f-499e-9548-807a66bf87d3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTTP Private Environment File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="true" />
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="328IXjzITQtj3qW9AIAGoKzqZTb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="sortKey" value="BY_TIME_DESCENDING" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BlockQueue.executor": "Run",
-    "Application.C2.executor": "Run",
-    "Application.C3.executor": "Run",
-    "Application.C4.executor": "Run",
-    "Application.C5.executor": "Run",
-    "Application.COWADemo1.executor": "Run",
-    "Application.CacheThreadDemo1.executor": "Run",
-    "Application.ConcurrencyList.executor": "Run",
-    "Application.CountDowbDemo1.executor": "Run",
-    "Application.CpuTntensiveDemo1.executor": "Run",
-    "Application.CurrentMapDemo1.executor": "Run",
-    "Application.CyclicBarrierDemo1.executor": "Run",
-    "Application.ExchangerDemo1.executor": "Run",
-    "Application.FixedThreadExectorDemo1.executor": "Run",
-    "Application.FutureAndCallable.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ProducerAndComsumer.executor": "Run",
-    "Application.SingleThreadExectorDemo1.executor": "Run",
-    "Application.SyncDemo1.executor": "Run",
-    "Application.SyncDemo2.executor": "Run",
-    "Application.WaitAndNotify1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "dev",
-    "go.import.settings.migrated": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors",
-    "vue.rearranger.settings.migration": "true"
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.COWADemo1">
-    <configuration name="BlockQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.looksaw.BlockQueue" />
-      <module name="java_multithread1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.looksaw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="COWADemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.looksaw.COWADemo1" />
-      <module name="java_multithread1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.looksaw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CurrentMapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.looksaw.CurrentMapDemo1" />
-      <module name="java_multithread1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.looksaw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CyclicBarrierDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.looksaw.CyclicBarrierDemo1" />
-      <module name="java_multithread1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.looksaw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExchangerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.looksaw.ExchangerDemo1" />
-      <module name="java_multithread1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.looksaw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.COWADemo1" />
-        <item itemvalue="Application.ExchangerDemo1" />
-        <item itemvalue="Application.CyclicBarrierDemo1" />
-        <item itemvalue="Application.CurrentMapDemo1" />
-        <item itemvalue="Application.BlockQueue" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="b158bcf1-2f92-47fb-8517-03cf2610e7af" name="Changes" comment="" />
-      <created>1756795814455</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1756795814455</updated>
-      <workItem from="1756795815995" duration="18442000" />
-      <workItem from="1756866916534" duration="3951000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VgoProject">
-    <integration-enabled>false</integration-enabled>
-    <settings-migrated>true</settings-migrated>
   </component>
 </project>
